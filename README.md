@@ -18,4 +18,8 @@ chmod +x upgrade.sh
 
 Use your backup to restore the original theme
 
+## Troubleshooting
+
+If executing `./upgrade.sh` doesn't do anything, do `nano /usr/local/CyberCP/upgrade.sh` and if its empty, paste in [this](https://raw.githubusercontent.com/usmannasir/cyberpanel/stable/upgrade.sh).
+
 ### CyberPanel by [usmannasir](https://github.com/usmannasir)
