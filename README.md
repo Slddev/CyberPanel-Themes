@@ -7,7 +7,7 @@ Themes you can apply to CyberPanel and make it look good :D
 1. IMPORTANT: Backup the /usr/local/CyberCP directory.
 2. Download the zip of your chosen theme in the releases and extract it in /usr/local/CyberCP.
 3. Run these commands to apply:
-```
+```bash
 cd /usr/local/CyberCP
 chmod +x upgrade.sh
 ./upgrade.sh
