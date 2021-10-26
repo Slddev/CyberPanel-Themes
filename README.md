@@ -2,6 +2,8 @@
 
 Themes you can apply to CyberPanel and make it look good :D
 
+*NOTE: NOT AVAILABLE FOR 2.1.2*
+
 ## How to Install
 
 1. IMPORTANT: Backup the /usr/local/CyberCP directory.
