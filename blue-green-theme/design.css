@@ -1,0 +1,10 @@
+.bg-gradient-9 {
+background: #11998e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#page-sidebar a:hover {
+color: #38ef7d;
+}
+.bsdatepicker td span:hover,.bsdatepicker td.active,.bsdatepicker td.day.active:hover,.bsdatepicker th.next:hover,.bsdatepicker th.prev:hover,.btn-primary.active,.btn-primary.disabled,.btn-primary.disabled.active,.btn-primary.disabled:active,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.btn-primary[disabled],.btn-primary[disabled].active,.btn-primary[disabled]:active,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,.daterangepicker .calendar th.next:hover,.daterangepicker .calendar th.prev:hover,.daterangepicker td.active,.daterangepicker td.available.active:hover,.hover-primary:hover,.label-primary[href]:focus,.label-primary[href]:hover,.open .dropdown-toggle.btn-primary,.pagination>.active>a,.pagination>.active>a:focus,.pagination>.active>a:hover,.pagination>.active>span,.pagination>.active>span:focus,.pagination>.active>span:hover,.ui-accordion-header.ui-accordion-header-active.ui-state-hover,.ui-datepicker .ui-datepicker-next.ui-state-hover,.ui-datepicker .ui-datepicker-prev.ui-state-hover,.ui-datepicker td a:hover,.ui-dialog-buttonset button:hover,.ui-rangeSlider-bar:active,.ui-rangeSlider-bar:hover,.ui-slider-handle.ui-state-active,.ui-slider-handle.ui-state-hover{color:#fff;border-color: #38ef7d;background-color: #38ef7d;}
+.btn-primary{border-color: #11998e;background-color: #11998e;}
