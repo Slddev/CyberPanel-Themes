@@ -2,7 +2,7 @@
 
 Themes you can apply to CyberPanel and make it look good :D
 
-*NOTE: If you are running CyberPanel 2.1.1 and below use the `legacy` branch.*
+*NOTE: If you are running CyberPanel 2.1.1 and below use the `legacy` branch.* <br>
 *NOTE 2: This doesn't override the login and file manager CSS like the `legacy` branch. Since it is not supported to do so yet.*
 
 ## How to Install
