@@ -2,26 +2,23 @@
 
 Themes you can apply to CyberPanel and make it look good :D
 
-*NOTE: NOT AVAILABLE FOR 2.1.2*
+*NOTE: If you are running CyberPanel 2.1.1 and below use the `legacy` branch.*
 
 ## How to Install
 
-1. IMPORTANT: Backup the /usr/local/CyberCP directory.
-2. Download the latest zip in the releases and extract it in /usr/local/CyberCP.
-3. Run these commands to apply:
-```bash
-cd /usr/local/CyberCP
-chmod +x upgrade.sh
-./upgrade.sh
-```
-4. Enjoy.
+1. Go to the folder of your chosen theme
+2. Click design.css
+3. Copy everything in the file.
+4. Go to CyberPanel > Design
+5. Paste the contents of design.css to the text area.
+6. Save.
 
 ## How to Remove
 
-Use your backup to restore the original theme
+Remove everything from the `Design` text area.
 
 ## Troubleshooting
 
-If executing `./upgrade.sh` doesn't do anything, do `nano /usr/local/CyberCP/upgrade.sh` and if its empty, paste in [this](https://raw.githubusercontent.com/usmannasir/cyberpanel/stable/upgrade.sh).
+Try clearing cache on your web browser.
 
 ### CyberPanel by [usmannasir](https://github.com/usmannasir)
