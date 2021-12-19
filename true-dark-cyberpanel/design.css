@@ -1,0 +1,139 @@
+/*
+
+True Dark CyberPanel Theme - Copy this entire code into CyberPanel -> Design Menu > Editor
+This is created by Ruhani Rabin https://www.ruhanirabin.com, https://rabin.blog
+Kindly give the credit when you modify and apply
+---- GPL 2.0 ----
+
+*/
+
+.badge-yellow, .bg-yellow, .btn-yellow, .hover-yellow:hover, .label-yellow {
+    color: #fff;
+    background: #5600ff;
+    border-color: #deb200;
+}
+.badge-danger, .bg-danger, .bg-red, .bootstrap-switch-danger, .btn-danger, .checkbox-danger div[id^=uniform-] span.checked, .hover-danger:hover, .hover-red:hover, .label-danger, .progress-bar-danger, .radio-danger div[id^=uniform-] span.checked {
+    color: #fff;
+    border-color: #252525;
+    background: #252525;
+}
+
+.badge, .bs-badge, .bs-label {
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+}
+.btn-primary:hover, .btn-primary:focus {
+    background: #101a4a;
+    border-color: #33ff86;
+}
+.btn-primary {
+    background: #032d45;
+    border-color: #337ab7;
+}
+.c100 {
+    background-color: #252525;
+}
+
+.c100>span { color: #252525; }
+.ng-binding {
+    display: inline;
+    color: #45be46;
+}
+.table .table {
+    background-color: #252525;
+}
+.modal-content {
+    background-color: #252525;
+}
+
+.bootstrap-timepicker-widget table td input, .chosen-container-multi, .chosen-container-single .chosen-search input, .dataTables_length select, .form-control, .input, .ui-toolbar input, .ui-toolbar select, div.dataTables_filter input {
+    background: #252525;
+    color: #ddd;
+    border: 1px solid #252525;
+    -webkit-box-shadow: inset 1px 1px 3px #252525;
+    -moz-box-shadow: inset 1px 1px 3px #252525;
+    box-shadow: inset 1px 1px 3px #252525;
+}
+
+.bootstrap-timepicker-widget table td input:focus, .chosen-container-active, .chosen-container-multi.chosen-container-active, .form-control:focus, .input:focus, .selector.focus, .ui-toolbar input:focus, .ui-toolbar select:focus, div.dataTables_filter input:focus {
+    color: #ccc;
+    border-color: #45be46;
+}
+
+#header-logo, #page-sidebar.collapse, #theme-options {
+    display: block;
+    background-color: #141414;
+}
+
+#header-logo .logo-content-big, .logo-content-small {
+    background: url('https://i.imgur.com/tveuUEE.png') left 50% no-repeat;
+    text-indent: -999em;
+    position: absolute;
+    height: 42px;
+    width: 190px;
+    left: 10px;
+    top: 50%;
+    margin-top: -17px;
+}
+
+.bg-gradient-9 {
+background-color: #141414;
+background: linear-gradient(90deg, #141414, #1b1b1b, #222222, #282828, #303030, #373737, #3e3e3e, #464646);
+}
+
+#sidebar-menu {
+    background: #141414;
+}
+#page-sidebar ul li.header {
+    color: #b4b2b2;
+}
+#page-content {
+    background: #1a1a1a;
+}
+#page-title h2 {
+    color: #afb0b1;
+}
+
+.bg-default, .bg-white.dashboard-box .button-pane, .bg-white.tile-box .tile-footer, .border-default, .bordered-row .form-group, .btn-default, .button-pane, .chosen-container, .chosen-container .chosen-drop, .chosen-container-active.chosen-with-drop .chosen-single div, .chosen-container-multi .chosen-choices li.search-choice, .chosen-container-single .chosen-single div, .content-box, .content-box-header.bg-default, .content-box-header.bg-gray, .content-box-header.bg-white, .dashboard-buttons .btn, .daterangepicker .calendar-date, .dropdown-menu, .email-body, .fc-state-default, .fc-widget-content, .fc-widget-header, .img-thumbnail, .jvectormap-label, .jvectormap-zoomin, .jvectormap-zoomout, .list-group-item, .mail-toolbar, .mailbox-wrapper .nav-list li a, .minicolors-panel, .ms-container .ms-list, .ms-container .ms-selectable li.ms-elem-selectable, .ms-container .ms-selection li.ms-elem-selection, .nav .open>a, .nav .open>a:focus, .nav .open>a:hover, .nav-tabs, .nav-tabs>li>a:focus, .nav-tabs>li>a:hover, .pagination>li>a, .pagination>li>span, .panel, .panel-box.bg-default, .panel-box.bg-gray, .panel-box.bg-white, .panel-content.bg-default, .panel-content.bg-gray, .panel-content.bg-white, .panel-footer, .panel-group .panel-footer+.panel-collapse .panel-body, .panel-group .panel-heading+.panel-collapse .panel-body, .panel-heading, .popover, .popover-title, .posts-list li, .selector i, .table-bordered, .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th, .tabs-navigation>ul, .tabs-navigation>ul li.ui-state-hover>a, .tabs-navigation>ul li>a, .thumb-pane, .thumbnail, .timeline-box .tl-item .popover, .timeline-box:before, .ui-accordion .ui-accordion-header, .ui-datepicker, .ui-datepicker .ui-datepicker-buttonpane button, .ui-datepicker-buttonpane, .ui-dialog, .ui-dialog .ui-dialog-titlebar, .ui-dialog-buttonpane, .ui-menu, .ui-spinner .ui-spinner-button, .ui-tabs-nav, div.selector, div[id^=uniform-] span {
+    border-color: #414141;
+}
+.panel {
+    margin-bottom: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: #414141;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+}
+
+body {
+    color: #eaecef;
+    background-color: #1a1a1a;
+}
+
+label {
+    color: #dfe8f1;
+}
+
+.current-pack {
+    color: #45be46;
+}
+
+.table {
+    background: #252525;
+}
+
+#page-sidebar ul li a .glyph-icon {
+    color: #dddddd;
+}
+
+#sidebar-menu li .sidebar-submenu {
+    border-color: #333333;
+}
+
+#sidebar-menu li .sidebar-submenu ul li a:hover, #sidebar-menu li .sidebar-submenu ul li a.sfActive {
+    background: #11024b;
+    color: #45be46;
+    font-weight: bold;
+}
