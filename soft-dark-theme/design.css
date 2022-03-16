@@ -304,7 +304,7 @@ button:hover {
 .c100::after {
     background-color: var(--resources-circle-background);
 }
-.c100.red .bar {
+.c100.red .bar, .c100.red .fill, .c100.red.dark .bar, .c100.red.dark .fill {
     border-color: #912626 !important;
 }
 .c100.red .green {
